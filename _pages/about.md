@@ -29,18 +29,20 @@ For academic exchange or cooperation, please feel free to email me at xyl_507@ou
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/CRM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/CRM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Consistent Representation Mining for Multi-Drone Single Object Tracking, IEEE TCSVT. (https://ieeexplore.ieee.org/document/10551855) [code](https://github.com/xyl-507/CRM)
+Consistent Representation Mining for Multi-Drone Single Object Tracking, IEEE TCSVT. [Paper](https://ieeexplore.ieee.org/document/10551855) [code](https://github.com/xyl-507/CRM)
+
 **Yuanliang Xue**, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/QRDT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/QRDT.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Handling occlusion in uav visual tracking with query-guided redetection, IEEE TIM. [Paper](https://ieeexplore.ieee.org/document/10551855) [code](https://github.com/xyl-507/CRM)
+
 **Yuanliang Xue** Tao Shen, Guodong Jin, Lining Tan, Nian Wang, Lianfeng Wang, Jing Gao
 </div>
 </div>
