@@ -26,7 +26,7 @@ Now I am severing as a reviewer for IEEE TMM, TCSVT, JSTARS, ACM TITS, and Artif
 
 For academic exchange or cooperation, please feel free to email me at xyl_507@outlook.com.
 
-
+---
 # 📝 Publications 
 ## 2024
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/CRM.jpg' alt="sym" width="100%"></div></div>
@@ -62,8 +62,7 @@ SmallTrack: Wavelet pooling and graph enhanced classification for uav small obje
 ## 2022
 - MobileTrack: Siamese efficient mobile network for high‐speed UAV tracking, _IET Image Processing_, **Yuanliang Xue**, Guodong Jin, Tao Shen, Lining Tan, Jing Yang, Xiaohan Hou. [paper](https://doi.org/10.1049/ipr2.12565) [code](https://github.com/xyl-507/MobileTrack)
 
-
-
+---
 # 📖 Educations
 - *2022.03 - now,  Doctor, Computer Science,   Xi’an Research Institute of High-tech, Xi'an, Shaanxi, China. 
 - *2019.09 - 2021.12,  Master, Computer Science,   Xi’an Research Institute of High-tech, Xi'an, Shaanxi, China.
