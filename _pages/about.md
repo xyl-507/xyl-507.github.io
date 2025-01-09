@@ -18,13 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨‍🎓 About Me
-My name is Yuanliang Xue (薛远亮). From 2022.03, I work as a PhD candidate at Xi’an Research Institute of High-tech, Xi’an, Shaanxi, China.
+- My name is Yuanliang Xue (薛远亮). From 2022.03, I work as a PhD candidate at Xi’an Research Institute of High-tech, Xi’an, Shaanxi, China.
 
-My researches focus on Deep Learning and its applications to image (video) processing, computer vision and UAV. My current interests include object detection and tracking, aerial detection and tracking. I have published 10+ papers related to above topics on some international conferences and journals with .
+- My researches focus on Deep Learning and its applications to image (video) processing, computer vision and UAV. My current interests include object detection and tracking, aerial detection and tracking. I have published 10+ papers related to above topics on some international conferences and journals with .
 
-Now I am severing as a reviewer for IEEE TMM, TCSVT, JSTARS, ACM TITS, and Artificial intelligence review etc.
+- Now I am severing as a reviewer for IEEE TMM, TCSVT, JSTARS, ACM TITS, and Artificial intelligence review etc.
 
-For academic exchange or cooperation, please feel free to email me at [xyl_507@outlook.com]().
+- For academic exchange or cooperation, please feel free to email me at [xyl_507@outlook.com]().
 
 ---
 # 📝 Publications 
@@ -46,6 +46,9 @@ Handling occlusion in uav visual tracking with query-guided redetection, _IEEE T
 **Yuanliang Xue**, Tao Shen, Guodong Jin, Lining Tan, Nian Wang, Lianfeng Wang, Jing Gao
 </div>
 </div>
+
+- Capsule Attention Network for Hyperspectral Image Classification, _Remote Sensing_, Nian Wang; Aitao Yang; Zhigao Cui; Yao Ding; **Yuanliang Xue**; Yanzhao Su. [Paper](https://doi.org/10.3390/rs16214001)
+- Ship Detection in Synthetic Aperture Radar Images Based on BiLevel Spatial Attention and Deep Poly Kernel Network, _Journal of Marine Science and Engineering_, Siyuan Tian; Guodong Jin; Jing Gao; Lining Tan; **Yuanliang Xue**; Yang Li; Yantong Liu. [Paper](https://doi.org/10.3390/jmse12081379)
 
 ## 2023
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/SmallTrack.jpg' alt="sym" width="100%"></div></div>
