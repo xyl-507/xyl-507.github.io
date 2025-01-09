@@ -51,7 +51,7 @@ Handling occlusion in uav visual tracking with query-guided redetection, _IEEE T
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/SmallTrack.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Smalltrack: Wavelet pooling and graph enhanced classification for uav small object tracking, _IEEE TGRS_. [Paper](https://ieeexplore.ieee.org/document/10220112) [code](https://github.com/xyl-507/SmallTrack)
+SmallTrack: Wavelet pooling and graph enhanced classification for uav small object tracking, _IEEE TGRS_. [Paper](https://ieeexplore.ieee.org/document/10220112) [code](https://github.com/xyl-507/SmallTrack)
 
 **Yuanliang Xue**, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang
 </div>
