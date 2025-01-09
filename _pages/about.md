@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
+# 👨‍🎓 Introduction
 My name is Yuanliang Xue (薛远亮). From 2022.03, I work as a PhD candidate at Xi’an Research Institute of High-tech, Xi’an, Shaanxi, China.
 
 My researches focus on Deep Learning and its applications to image (video) processing, computer vision and UAV. My current interests include object detection and tracking, aerial detection and tracking. I have published 10+ papers related to above topics on some international conferences and journals with .
@@ -28,7 +28,7 @@ For academic exchange or cooperation, please feel free to email me at xyl_507@ou
 
 
 # 📝 Publications 
-
+## 2024
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/CRM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -38,21 +38,32 @@ Consistent Representation Mining for Multi-Drone Single Object Tracking, IEEE TC
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/QRDT.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2024</div><img src='images/QRDT.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Handling occlusion in uav visual tracking with query-guided redetection, IEEE TIM. [Paper](https://ieeexplore.ieee.org/document/10551855) [code](https://github.com/xyl-507/CRM)
+Handling occlusion in uav visual tracking with query-guided redetection, IEEE TIM. [Paper](https://ieeexplore.ieee.org/document/10633268) [code](https://github.com/xyl-507/QRDT)
 
 **Yuanliang Xue** Tao Shen, Guodong Jin, Lining Tan, Nian Wang, Lianfeng Wang, Jing Gao
 </div>
 </div>
 
+## 2023
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/SmallTrack.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+Smalltrack: Wavelet pooling and graph enhanced classification for uav small object tracking, IEEE TGRS. [Paper](https://ieeexplore.ieee.org/document/10220112) [code](https://github.com/xyl-507/SmallTrack)
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Yuanliang Xue**, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang
+</div>
+</div>
+
+- Template-guided frequency attention and adaptive cross-entropy loss for UAV visual tracking, Chinese Journal of Aeronautics. [paper](https://doi.org/10.1016/j.cja.2023.03.048) [code](https://github.com/xyl-507/TGFAT)
+**Yuanliang Xue**, Guodong Jin, Tao Shen, Lining Tan, Lianfeng Wang
+
+## 2022
+- MobileTrack: Siamese efficient mobile network for high‐speed UAV tracking, IET Image Processing. [paper](https://doi.org/10.1049/ipr2.12565) [code](https://github.com/xyl-507/MobileTrack)
+**Yuanliang Xue**, Guodong Jin, Tao Shen, Lining Tan, Jing Yang, Xiaohan Hou
+
 
 # 📖 Educations
 - *2022.03 - now,  Doctor, Computer Science,   Xi’an Research Institute of High-tech, Xi'an, Shaanxi, China. 
