@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuanliang Xue"
-description              : "PhD student at the Xi'an High-Tech Research Institute, and my research interest is UAV object tracking. The research is about object tracking algorithm based on Siamese neural network and ViT."
+description              : "Research interest is object detection and tracking for UAV. I'm currently focusing on multimodal visual tracking."
 repository               : "https://xyl-507.github.io/"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuanliang Xue"
   avatar           : "images/xyl.png"
-  bio              : "Xi'an High-Tech Research Institute"
+  bio              : "PhD student at the Xi'an High-Tech Research Institute"
   location         : "Xi'an, China"
   employer         :
   pubmed           : 
