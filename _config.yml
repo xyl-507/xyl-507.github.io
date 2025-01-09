@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yuanliang Xue"
 description              : "Research interest is object detection and tracking for UAV. I'm currently focusing on multimodal visual tracking."
-repository               : "https://xyl-507.github.io/"
+repository               : # "https://xyl-507.github.io/"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/xyl-507"
+  github           : "xyl-507"
   google_plus      :
   keybase          :
   instagram        :
