@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👨‍🎓 Introduction
+# 👨‍🎓 About Me
 My name is Yuanliang Xue (薛远亮). From 2022.03, I work as a PhD candidate at Xi’an Research Institute of High-tech, Xi’an, Shaanxi, China.
 
 My researches focus on Deep Learning and its applications to image (video) processing, computer vision and UAV. My current interests include object detection and tracking, aerial detection and tracking. I have published 10+ papers related to above topics on some international conferences and journals with .
@@ -64,6 +64,7 @@ SmallTrack: Wavelet pooling and graph enhanced classification for uav small obje
 
 ---
 # 📖 Educations
-- *2022.03 - now,  Doctor, Computer Science,   Xi’an Research Institute of High-tech, Xi'an, Shaanxi, China. 
-- *2019.09 - 2021.12,  Master, Computer Science,   Xi’an Research Institute of High-tech, Xi'an, Shaanxi, China.
-- *2015.09 - 2019.06,  Bachelor, Computer Science,  Xi’an Research Institute of High-tech, Xi'an, Shaanxi, China.
+- 2022.03 - now,  Doctor, Computer Science,   Xi’an Research Institute of High-tech, Xi'an, Shaanxi, China.
+- 2024.04 - 2025.06,  Visiting Student, advised by Bineng Zhong, School of Computer Science and Engineering,   Guangxi Normal University, Guilin, Guangxi, China. 
+- 2019.09 - 2021.12,  Master, Computer Science,   Xi’an Research Institute of High-tech, Xi'an, Shaanxi, China.
+- 2015.09 - 2019.06,  Bachelor, Computer Science,  Xi’an Research Institute of High-tech, Xi'an, Shaanxi, China.
