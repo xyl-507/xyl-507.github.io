@@ -32,7 +32,7 @@ For academic exchange or cooperation, please feel free to email me at xyl_507@ou
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/CRM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Consistent Representation Mining for Multi-Drone Single Object Tracking, _IEEE TCSVT_. [Paper](https://ieeexplore.ieee.org/document/10551855) [code](https://github.com/xyl-507/CRM)
+Consistent Representation Mining for Multi-Drone Single Object Tracking, _IEEE TCSVT_. [Paper](https://ieeexplore.ieee.org/document/10551855) [Code](https://github.com/xyl-507/CRM)
 
 **Yuanliang Xue**, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang
 </div>
@@ -41,7 +41,7 @@ Consistent Representation Mining for Multi-Drone Single Object Tracking, _IEEE T
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2024</div><img src='images/QRDT.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Handling occlusion in uav visual tracking with query-guided redetection, _IEEE TIM_. [Paper](https://ieeexplore.ieee.org/document/10633268) [code](https://github.com/xyl-507/QRDT)
+Handling occlusion in uav visual tracking with query-guided redetection, _IEEE TIM_. [Paper](https://ieeexplore.ieee.org/document/10633268) [Code](https://github.com/xyl-507/QRDT)
 
 **Yuanliang Xue**, Tao Shen, Guodong Jin, Lining Tan, Nian Wang, Lianfeng Wang, Jing Gao
 </div>
@@ -51,16 +51,16 @@ Handling occlusion in uav visual tracking with query-guided redetection, _IEEE T
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/SmallTrack.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-SmallTrack: Wavelet pooling and graph enhanced classification for uav small object tracking, _IEEE TGRS_. [Paper](https://ieeexplore.ieee.org/document/10220112) [code](https://github.com/xyl-507/SmallTrack)
+SmallTrack: Wavelet pooling and graph enhanced classification for uav small object tracking, _IEEE TGRS_. [Paper](https://ieeexplore.ieee.org/document/10220112) [Code](https://github.com/xyl-507/SmallTrack)
 
 **Yuanliang Xue**, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang
 </div>
 </div>
 
-- Template-guided frequency attention and adaptive cross-entropy loss for UAV visual tracking, _Chinese Journal of Aeronautics_, **Yuanliang Xue**, Guodong Jin, Tao Shen, Lining Tan, Lianfeng Wang. [paper](https://doi.org/10.1016/j.cja.2023.03.048) [code](https://github.com/xyl-507/TGFAT)
+- Template-guided frequency attention and adaptive cross-entropy loss for UAV visual tracking, _Chinese Journal of Aeronautics_, **Yuanliang Xue**, Guodong Jin, Tao Shen, Lining Tan, Lianfeng Wang. [Paper](https://doi.org/10.1016/j.cja.2023.03.048) [Code](https://github.com/xyl-507/TGFAT)
 
 ## 2022
-- MobileTrack: Siamese efficient mobile network for high‐speed UAV tracking, _IET Image Processing_, **Yuanliang Xue**, Guodong Jin, Tao Shen, Lining Tan, Jing Yang, Xiaohan Hou. [paper](https://doi.org/10.1049/ipr2.12565) [code](https://github.com/xyl-507/MobileTrack)
+- MobileTrack: Siamese efficient mobile network for high‐speed UAV tracking, _IET Image Processing_, **Yuanliang Xue**, Guodong Jin, Tao Shen, Lining Tan, Jing Yang, Xiaohan Hou. [Paper](https://doi.org/10.1049/ipr2.12565) [Code](https://github.com/xyl-507/MobileTrack)
 
 ---
 # 📖 Educations
