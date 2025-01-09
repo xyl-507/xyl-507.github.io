@@ -24,7 +24,7 @@ My researches focus on Deep Learning and its applications to image (video) proce
 
 Now I am severing as a reviewer for IEEE TMM, TCSVT, JSTARS, ACM TITS, and Artificial intelligence review etc.
 
-For academic exchange or cooperation, please feel free to email me at [xyl_507@outlook.com].
+For academic exchange or cooperation, please feel free to email me at [xyl_507@outlook.com]().
 
 ---
 # 📝 Publications 
