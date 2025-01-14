@@ -37,6 +37,13 @@ redirect_from:
  
 </details>
 ---
+# 🎖 Services
+
+## Journals
+
+- Reviewer: IEEE TMM/TCSVT/JSTARS, ACM TITS, Artificial intelligence review, Applied soft computing
+---
+
 # 📝 Publications 
 ## 2024
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/CRM.jpg' alt="sym" width="100%"></div></div>
