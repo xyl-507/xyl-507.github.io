@@ -40,7 +40,7 @@ redirect_from:
 
 ---
 
-# 🎖 Services
+# 🌱 Services
 
 ## Journals
 
@@ -96,7 +96,7 @@ SmallTrack: Wavelet pooling and graph enhanced classification for uav small obje
 
 ---
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2023.12*: Outstanding Doctoral Dissertation Cultivation Grant Program
 
 ---
