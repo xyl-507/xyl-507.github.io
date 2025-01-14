@@ -27,6 +27,7 @@ redirect_from:
 - For academic exchange or cooperation, please feel free to email me at [xyl_507@outlook.com]().
 
 ---
+
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 one paper is accepted in TCSVT. 
 - *2024.08*: &nbsp;🎉🎉 one paper is accepted in TIM.
@@ -40,6 +41,7 @@ redirect_from:
 </details>
 
 ---
+
 # 🎖 Services
 
 ## Journals
@@ -87,6 +89,7 @@ SmallTrack: Wavelet pooling and graph enhanced classification for uav small obje
 - MobileTrack: Siamese efficient mobile network for high‐speed UAV tracking, _IET Image Processing_, **Yuanliang Xue**, Guodong Jin, Tao Shen, Lining Tan, Jing Yang, Xiaohan Hou. [Paper](https://doi.org/10.1049/ipr2.12565) [Code](https://github.com/xyl-507/MobileTrack)
 
 ---
+
 # 📖 Educations
 - 2022.03 - now,  Doctor, Computer Science,   Xi’an Research Institute of High-tech, Xi'an, Shaanxi, China.
 - 2024.04 - 2025.06,  Visiting Student, advised by Bineng Zhong,   Guangxi Normal University, Guilin, Guangxi, China. 
