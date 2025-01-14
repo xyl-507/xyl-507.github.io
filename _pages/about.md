@@ -35,7 +35,7 @@ redirect_from:
 
 <details>
   <summary>More</summary>
- - *2023.08*: &nbsp;🎉🎉 one papers have been accepted in TGRS. 
+  - *2023.08*: &nbsp;🎉🎉 one papers have been accepted in TGRS. 
 </details>
 
 ---
