@@ -31,11 +31,13 @@ redirect_from:
 - *2024.11*: &nbsp;🎉🎉 one paper is accepted in TCSVT. 
 - *2024.08*: &nbsp;🎉🎉 one paper is accepted in TIM.
 
+
 <details>
   <summary>More</summary>
  - *2023.08*: &nbsp;🎉🎉 one papers have been accepted in TGRS. 
  
 </details>
+
 ---
 # 🎖 Services
 
