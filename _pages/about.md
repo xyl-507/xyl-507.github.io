@@ -44,11 +44,30 @@ redirect_from:
 
 ## Journals
 
-- Reviewer: IEEE TMM/TCSVT/JSTARS, ACM TITS, Artificial intelligence review, Applied soft computing, etc.
+- Reviewer: IEEE TMM/TCSVT/JSTARS, PR, ACM TITS, Artificial intelligence review, Applied soft computing, etc.
 
 ---
 
 # 📝 Publications 
+## 2025
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/AVLTrack.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+AVLTrack: Dynamic Sparse Learning for Aerial Vision-Language Tracking, _IEEE TCSVT_. [Paper](https://ieeexplore.ieee.org/document/10922151) [Code](https://github.com/xyl-507/AVLTrack)
+
+**Xue Yuanliang** and Zhong, Bineng and Jin, Guodong and Shen, Tao and Tan, Lining and Li, Ning and Zheng, Yaozong
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/SGLATrack.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking, _CVPR_. [Paper](https://arxiv.org/abs/2503.06625) [Code](https://github.com/GXNU-ZhongLab/SGLATrack)
+
+Chaocan Xue, Bineng Zhong, Qihua Liang, Yaozong Zheng, Ning Li, **Yuanliang Xue**, Shuxiang Song
+</div>
+</div>
+
 ## 2024
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/CRM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
