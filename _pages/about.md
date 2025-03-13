@@ -61,7 +61,7 @@ AVLTrack: Dynamic Sparse Learning for Aerial Vision-Language Tracking, _IEEE TCS
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/SGLATrack.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/SGLATrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking, _CVPR_. [Paper](https://arxiv.org/abs/2503.06625) [Code](https://github.com/GXNU-ZhongLab/SGLATrack)
