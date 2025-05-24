@@ -22,7 +22,7 @@ redirect_from:
 
 - My researches focus on Deep Learning and its applications to image (video) processing, computer vision and UAV. My current interests include object detection and tracking, aerial detection and tracking. I have published 10+ papers related to above topics on some international conferences and journals with .
 
-- Now I am severing as a reviewer for IEEE TMM, TCSVT, JSTARS, ACM TITS, and Artificial intelligence review etc.
+- Now I am severing as a reviewer for IEEE TMM, TCSVT, ISPRS Jour. of Pho. and RS, PR, ASOC, JSTARS, Inf. Fusion, ACM TITS, ESWA, EAAI, KBS, and Artificial intelligence review etc. More information is on [https://orcid.org/0000-0002-8753-4990]()
 
 - For academic exchange or cooperation, please feel free to email me at [xyl_507@outlook.com]().
 
