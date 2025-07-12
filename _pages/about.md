@@ -29,6 +29,7 @@ redirect_from:
 ---
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 one paper is accepted in TITS. 
 - *2025.03*: &nbsp;🎉🎉 one paper is accepted in TCSVT. 
 - *2025.02*: &nbsp;🎉🎉 one paper is accepted in CVPR. 
 - *2024.11*: &nbsp;🎉🎉 one paper is accepted in TCSVT. 
