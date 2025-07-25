@@ -53,6 +53,15 @@ redirect_from:
 
 # 📝 Publications 
 ## 2025
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2025</div><img src='images/TDAT.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Target-Distractor Aware UAV Tracking via Global Agent, _IEEE TITS_. [Paper](https://ieeexplore.ieee.org/document/11054299) [Code](https://github.com/xyl-507/TDAT)
+
+**Xue Yuanliang** and Zhong, Bineng and Jin, Guodong and Shen, Tao and Tan, Lining and Li, Ning and Zheng, Yaozong
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/AVLTrack.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
