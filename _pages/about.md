@@ -58,7 +58,7 @@ redirect_from:
 
 Target-Distractor Aware UAV Tracking via Global Agent, _IEEE TITS_. [Paper](https://ieeexplore.ieee.org/document/11054299) [Code](https://github.com/xyl-507/TDAT)
 
-**Xue Yuanliang** and Zhong, Bineng and Jin, Guodong and Shen, Tao and Tan, Lining and Li, Ning and Zheng, Yaozong
+**Xue Yuanliang** and Jin, Guodong and Shen, Tao and Tan, Lining and Wang, Ning and Gao, Jing and Yu, Ye and Tian, Siyuan
 </div>
 </div>
 
