@@ -29,12 +29,12 @@ redirect_from:
 ---
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 one paper is accepted in TCSVT.
-- *2025.06*: &nbsp;🎉🎉 one paper is accepted in TITS. 
-- *2025.03*: &nbsp;🎉🎉 one paper is accepted in TCSVT. 
-- *2025.02*: &nbsp;🎉🎉 one paper is accepted in CVPR. 
-- *2024.11*: &nbsp;🎉🎉 one paper is accepted in TCSVT. 
-- *2024.08*: &nbsp;🎉🎉 one paper is accepted in TIM.
+- *2025.08*: &nbsp;🎉🎉 one paper is accepted in TCSVT. FMTrack [[Paper]](xxx) [[Code]](https://github.com/xyl-507/FMTrack)
+- *2025.06*: &nbsp;🎉🎉 one paper is accepted in TITS. TDAT [[Paper]](https://ieeexplore.ieee.org/document/11054299) [[Code]](https://github.com/xyl-507/TDAT)
+- *2025.03*: &nbsp;🎉🎉 one paper is accepted in TCSVT. AVLTrack [[Paper]](https://ieeexplore.ieee.org/document/10922151) [[Code]](https://github.com/xyl-507/AVLTrack)
+- *2025.02*: &nbsp;🎉🎉 one paper is accepted in CVPR. SGLATrack [[Paper]](https://arxiv.org/abs/2503.06625) [[Code]](https://github.com/GXNU-ZhongLab/SGLATrack)
+- *2024.11*: &nbsp;🎉🎉 one paper is accepted in TCSVT. CRM [[Paper]](https://ieeexplore.ieee.org/document/10551855) [[Code]](https://github.com/xyl-507/CRM)
+- *2024.08*: &nbsp;🎉🎉 one paper is accepted in TIM. QRDT [[Paper]](https://ieeexplore.ieee.org/document/10633268) [[Code]](https://github.com/xyl-507/QRDT)
 
 
 <details>
@@ -57,7 +57,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/FMTrack.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-FMTrack: Frequency-aware Interaction and Multi-Expert Fusion for RGB-T Tracking, _IEEE TCSVT_. [Paper](xxx) [Code](https://github.com/xyl-507/FMTrack)
+FMTrack: Frequency-aware Interaction and Multi-Expert Fusion for RGB-T Tracking, _IEEE TCSVT_. [[Paper]](xxx) [[Code]](https://github.com/xyl-507/FMTrack)
 
 **Xue Yuanliang**, Guodong Jin, Bineng Zhong, Tao Shen, Lining Tan, Chaocan Xue, Yaozong Zheng
 </div>
@@ -66,7 +66,7 @@ FMTrack: Frequency-aware Interaction and Multi-Expert Fusion for RGB-T Tracking,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2025</div><img src='images/TDAT.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Target-Distractor Aware UAV Tracking via Global Agent, _IEEE TITS_. [Paper](https://ieeexplore.ieee.org/document/11054299) [Code](https://github.com/xyl-507/TDAT)
+Target-Distractor Aware UAV Tracking via Global Agent, _IEEE TITS_. [[Paper]](https://ieeexplore.ieee.org/document/11054299) [[Code]](https://github.com/xyl-507/TDAT)
 
 **Xue Yuanliang** and Jin, Guodong and Shen, Tao and Tan, Lining and Wang, Ning and Gao, Jing and Yu, Ye and Tian, Siyuan
 </div>
@@ -75,7 +75,7 @@ Target-Distractor Aware UAV Tracking via Global Agent, _IEEE TITS_. [Paper](http
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/AVLTrack.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-AVLTrack: Dynamic Sparse Learning for Aerial Vision-Language Tracking, _IEEE TCSVT_. [Paper](https://ieeexplore.ieee.org/document/10922151) [Code](https://github.com/xyl-507/AVLTrack)
+AVLTrack: Dynamic Sparse Learning for Aerial Vision-Language Tracking, _IEEE TCSVT_. [[Paper]](https://ieeexplore.ieee.org/document/10922151) [[Code]](https://github.com/xyl-507/AVLTrack)
 
 **Xue Yuanliang** and Zhong, Bineng and Jin, Guodong and Shen, Tao and Tan, Lining and Li, Ning and Zheng, Yaozong
 </div>
@@ -84,7 +84,7 @@ AVLTrack: Dynamic Sparse Learning for Aerial Vision-Language Tracking, _IEEE TCS
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/SGLATrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking, _CVPR_. [Paper](https://arxiv.org/abs/2503.06625) [Code](https://github.com/GXNU-ZhongLab/SGLATrack)
+Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking, _CVPR_. [[Paper]](https://arxiv.org/abs/2503.06625) [[Code]](https://github.com/GXNU-ZhongLab/SGLATrack)
 
 Chaocan Xue, Bineng Zhong, Qihua Liang, Yaozong Zheng, Ning Li, **Yuanliang Xue**, Shuxiang Song
 </div>
@@ -94,7 +94,7 @@ Chaocan Xue, Bineng Zhong, Qihua Liang, Yaozong Zheng, Ning Li, **Yuanliang Xue*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/CRM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Consistent Representation Mining for Multi-Drone Single Object Tracking, _IEEE TCSVT_. [Paper](https://ieeexplore.ieee.org/document/10551855) [Code](https://github.com/xyl-507/CRM)
+Consistent Representation Mining for Multi-Drone Single Object Tracking, _IEEE TCSVT_. [[Paper]](https://ieeexplore.ieee.org/document/10551855) [[Code]](https://github.com/xyl-507/CRM)
 
 **Yuanliang Xue**, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang
 </div>
@@ -103,29 +103,29 @@ Consistent Representation Mining for Multi-Drone Single Object Tracking, _IEEE T
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2024</div><img src='images/QRDT.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Handling occlusion in uav visual tracking with query-guided redetection, _IEEE TIM_. [Paper](https://ieeexplore.ieee.org/document/10633268) [Code](https://github.com/xyl-507/QRDT)
+Handling occlusion in uav visual tracking with query-guided redetection, _IEEE TIM_. [[Paper]](https://ieeexplore.ieee.org/document/10633268) [[Code]](https://github.com/xyl-507/QRDT)
 
 **Yuanliang Xue**, Tao Shen, Guodong Jin, Lining Tan, Nian Wang, Lianfeng Wang, Jing Gao
 </div>
 </div>
 
-- Capsule Attention Network for Hyperspectral Image Classification, _Remote Sensing_, Nian Wang; Aitao Yang; Zhigao Cui; Yao Ding; **Yuanliang Xue**; Yanzhao Su. [Paper](https://doi.org/10.3390/rs16214001)
-- Ship Detection in Synthetic Aperture Radar Images Based on BiLevel Spatial Attention and Deep Poly Kernel Network, _Journal of Marine Science and Engineering_, Siyuan Tian; Guodong Jin; Jing Gao; Lining Tan; **Yuanliang Xue**; Yang Li; Yantong Liu. [Paper](https://doi.org/10.3390/jmse12081379)
+- Capsule Attention Network for Hyperspectral Image Classification, _Remote Sensing_, Nian Wang; Aitao Yang; Zhigao Cui; Yao Ding; **Yuanliang Xue**; Yanzhao Su. [[Paper]](https://doi.org/10.3390/rs16214001)
+- Ship Detection in Synthetic Aperture Radar Images Based on BiLevel Spatial Attention and Deep Poly Kernel Network, _Journal of Marine Science and Engineering_, Siyuan Tian; Guodong Jin; Jing Gao; Lining Tan; **Yuanliang Xue**; Yang Li; Yantong Liu. [[Paper]](https://doi.org/10.3390/jmse12081379)
 
 ## 2023
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/SmallTrack.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-SmallTrack: Wavelet pooling and graph enhanced classification for uav small object tracking, _IEEE TGRS_. [Paper](https://ieeexplore.ieee.org/document/10220112) [Code](https://github.com/xyl-507/SmallTrack)
+SmallTrack: Wavelet pooling and graph enhanced classification for uav small object tracking, _IEEE TGRS_. [[Paper]](https://ieeexplore.ieee.org/document/10220112) [[Code]](https://github.com/xyl-507/SmallTrack)
 
 **Yuanliang Xue**, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang
 </div>
 </div>
 
-- Template-guided frequency attention and adaptive cross-entropy loss for UAV visual tracking, _Chinese Journal of Aeronautics_, **Yuanliang Xue**, Guodong Jin, Tao Shen, Lining Tan, Lianfeng Wang. [Paper](https://doi.org/10.1016/j.cja.2023.03.048) [Code](https://github.com/xyl-507/TGFAT)
+- Template-guided frequency attention and adaptive cross-entropy loss for UAV visual tracking, _Chinese Journal of Aeronautics_, **Yuanliang Xue**, Guodong Jin, Tao Shen, Lining Tan, Lianfeng Wang. [[Paper]](https://doi.org/10.1016/j.cja.2023.03.048) [[Code]](https://github.com/xyl-507/TGFAT)
 
 ## 2022
-- MobileTrack: Siamese efficient mobile network for high‐speed UAV tracking, _IET Image Processing_, **Yuanliang Xue**, Guodong Jin, Tao Shen, Lining Tan, Jing Yang, Xiaohan Hou. [Paper](https://doi.org/10.1049/ipr2.12565) [Code](https://github.com/xyl-507/MobileTrack)
+- MobileTrack: Siamese efficient mobile network for high‐speed UAV tracking, _IET Image Processing_, **Yuanliang Xue**, Guodong Jin, Tao Shen, Lining Tan, Jing Yang, Xiaohan Hou. [[Paper]](https://doi.org/10.1049/ipr2.12565) [[Code]](https://github.com/xyl-507/MobileTrack)
 
 ---
 
