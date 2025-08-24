@@ -29,7 +29,7 @@ redirect_from:
 ---
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 one paper is accepted in TCSVT. FMTrack [[Paper]](https://doi.org/10.1109/TCSVT.2025.3601598) [[Code]](https://github.com/xyl-507/FMTrack)
+- *2025.08*: &nbsp;🎉🎉 one paper is accepted in TCSVT. FMTrack [[Paper]](https://ieeexplore.ieee.org/document/11134499) [[Code]](https://github.com/xyl-507/FMTrack)
 - *2025.06*: &nbsp;🎉🎉 one paper is accepted in TITS. TDAT [[Paper]](https://ieeexplore.ieee.org/document/11054299) [[Code]](https://github.com/xyl-507/TDAT)
 - *2025.03*: &nbsp;🎉🎉 one paper is accepted in TCSVT. AVLTrack [[Paper]](https://ieeexplore.ieee.org/document/10922151) [[Code]](https://github.com/xyl-507/AVLTrack)
 - *2025.02*: &nbsp;🎉🎉 one paper is accepted in CVPR. SGLATrack [[Paper]](https://ieeexplore.ieee.org/abstract/document/11094982) [[Code]](https://github.com/GXNU-ZhongLab/SGLATrack)
@@ -57,7 +57,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/FMTrack.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-FMTrack: Frequency-aware Interaction and Multi-Expert Fusion for RGB-T Tracking, _IEEE TCSVT_. [[Paper]](xxx) [[Code]](https://github.com/xyl-507/FMTrack)
+FMTrack: Frequency-aware Interaction and Multi-Expert Fusion for RGB-T Tracking, _IEEE TCSVT_. [[Paper]](https://ieeexplore.ieee.org/document/11134499) [[Code]](https://github.com/xyl-507/FMTrack)
 
 **Xue Yuanliang**, Guodong Jin, Bineng Zhong, Tao Shen, Lining Tan, Chaocan Xue, Yaozong Zheng
 </div>
