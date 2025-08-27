@@ -39,7 +39,7 @@ redirect_from:
 
 <details>
   <summary>More</summary>
-  - *2023.08*: &nbsp;🎉🎉 one papers have been accepted in TGRS. SmallTrack [[Paper]](https://ieeexplore.ieee.org/document/10220112) [[Code]](https://github.com/xyl-507/SmallTrack)
+  - *2023.08*: &nbsp;🎉🎉 one paper have been accepted in TGRS. SmallTrack [[Paper]](https://ieeexplore.ieee.org/document/10220112) [[Code]](https://github.com/xyl-507/SmallTrack)
 </details>
 
 ---
