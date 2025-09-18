@@ -48,8 +48,8 @@ redirect_from:
 
 ## Reviewer
 
-- ✍**Conference**: CVPR, ICCV, AAAI
-- 📒**Journal**: IEEE TPAMI, TIP, TNNLS, TMM, TCSVT, TASE, ISPRS Jour. of Pho. and RS, PR, ASOC, JSTARS, Inf. Fusion, ACM TITS, ESWA, EAAI, KBS, and Artificial intelligence review etc. 
+- ✍ **Conference**: CVPR, ICCV, AAAI
+- 📒 **Journal**: IEEE TPAMI, TIP, TNNLS, TMM, TCSVT, TASE, ISPRS Jour. of Pho. and RS, PR, ASOC, JSTARS, Inf. Fusion, ACM TITS, ESWA, EAAI, KBS, and Artificial intelligence review etc. 
 - More information is on [https://orcid.org/0000-0002-8753-4990]()
 
 ---
