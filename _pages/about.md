@@ -24,7 +24,7 @@ redirect_from:
 
 - Now I am severing as a reviewer for CVPR, ICCV, AAAI, IEEE TPAMI, TIP, TNNLS, TMM, TCSVT, TASE, ISPRS Jour. of Pho. and RS, PR, ASOC, JSTARS, Inf. Fusion, ACM TITS, ESWA, EAAI, KBS, and Artificial intelligence review etc. More information is on [https://orcid.org/0000-0002-8753-4990](https://orcid.org/0000-0002-8753-4990)
 
-- For academic exchange or cooperation, please feel free to email me at <u>xyl_507@outlook.com<u>.
+- For any academic exchange or cooperation, please feel free to email me at <u>xyl_507@outlook.com<u>.
 
 ---
 
@@ -46,9 +46,11 @@ redirect_from:
 
 # 🌱 Services
 
-## Journals
+## Reviewer
 
-- Reviewer: IEEE TMM, TCSVT, TASE, ISPRS Jour. of Pho. and RS, PR, ASOC, JSTARS, Inf. Fusion, ACM TITS, ESWA, EAAI, KBS, and Artificial intelligence review etc. More information is on [https://orcid.org/0000-0002-8753-4990]()
+- ✍**Conference**: CVPR, ICCV, AAAI
+- 📒**Journal**: IEEE TPAMI, TIP, TNNLS, TMM, TCSVT, TASE, ISPRS Jour. of Pho. and RS, PR, ASOC, JSTARS, Inf. Fusion, ACM TITS, ESWA, EAAI, KBS, and Artificial intelligence review etc. 
+- More information is on [https://orcid.org/0000-0002-8753-4990]()
 
 ---
 
