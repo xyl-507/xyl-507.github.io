@@ -20,7 +20,7 @@ redirect_from:
 # 👨‍🎓 About Me
 - My name is Yuanliang Xue (薛远亮). From 2022.03, I work as a PhD candidate at Xi’an Research Institute of High-tech, Xi’an, Shaanxi, China.
 
-- My researches focus on Deep Learning and its applications to image (video) processing, computer vision and UAV. My current interests include object detection and tracking, aerial detection and tracking. I have published 10+ papers related to above topics on some international conferences and journals with .
+- My researches focus on Deep Learning and its applications to image (video) processing, computer vision and UAV. My current interests include object detection and tracking, aerial detection and tracking. I have published 20+ papers related to above topics on some international conferences and journals with .
 
 - Now I am severing as a reviewer for CVPR, ICCV, AAAI, IEEE TPAMI, TIP, TNNLS, TMM, TCSVT, TASE, ISPRS Jour. of Pho. and RS, PR, ASOC, JSTARS, Inf. Fusion, ACM TITS, ESWA, EAAI, KBS, and Artificial intelligence review etc.
 
