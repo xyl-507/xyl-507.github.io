@@ -31,7 +31,11 @@ redirect_from:
 ---
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 one paper is accepted in AAAI2026. MUTrack [[Paper]]() [[Code]]()
+- *2026.04*: &nbsp;🎉🎉 one paper is accepted in J. King Saud Univ. Comput. Inf. Sci. Ship-SAR [[Paper]](https://link.springer.com/article/10.1007/s44443-026-00713-7) [[Code]]()
+- *2026.02*: &nbsp;🎉🎉 one paper is accepted in CVPR2026. PNTrack [[Paper]]() [[Code]](https://github.com/Azong-HQU/PNTrack)
+- *2026.02*: &nbsp;🎉🎉 one paper is accepted in CVPR2026. LETrack [[Paper]]() [[Code]]()
+- *2026.02*: &nbsp;🎉🎉 one paper is accepted in CVPR2026. EATrack [[Paper]]() [[Code]]()
+- *2025.11*: &nbsp;🎉🎉 one paper is accepted in AAAI2026. MUTrack [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38052) [[Code]]()
 - *2025.08*: &nbsp;🎉🎉 one paper is accepted in TCSVT. FMTrack [[Paper]](https://ieeexplore.ieee.org/document/11134499) [[Code]](https://github.com/xyl-507/FMTrack)
 - *2025.06*: &nbsp;🎉🎉 one paper is accepted in TITS. TDAT [[Paper]](https://ieeexplore.ieee.org/document/11054299) [[Code]](https://github.com/xyl-507/TDAT) ——***🏆 ESI Highly cited Paper***
 - *2025.03*: &nbsp;🎉🎉 one paper is accepted in TCSVT. AVLTrack [[Paper]](https://ieeexplore.ieee.org/document/10922151) [[Code]](https://github.com/xyl-507/AVLTrack) ——***🏆 ESI Highly cited Paper*** ***🔥 ESI Hot Paper***
