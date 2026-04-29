@@ -22,7 +22,7 @@ redirect_from:
 
 - My researches focus on Deep Learning and its applications to image (video) processing, computer vision and UAV. My current interests include object detection and tracking, aerial detection and tracking. I have published 20+ papers related to above topics on some international conferences and journals with .
 
-- Now I am severing as a reviewer for CVPR, ICCV, AAAI, IEEE TPAMI, TIP, TNNLS, TMM, TCSVT, TASE, ISPRS Jour. of Pho. and RS, PR, ASOC, JSTARS, Inf. Fusion, ACM TITS, ESWA, EAAI, KBS, and Artificial intelligence review etc.
+- Now I am severing as a reviewer for CVPR, ICCV, AAAI, IEEE TPAMI, TIP, TNNLS, TMM, TCSVT, TIM, TASE, ISPRS Jour. of Pho. and RS, PR, ASOC, JSTARS, Inf. Fusion, ACM TITS, ESWA, EAAI, KBS, and Artificial intelligence review etc.
 
 - More information is on [https://orcid.org/0000-0002-8753-4990](https://orcid.org/0000-0002-8753-4990)
 
@@ -33,7 +33,7 @@ redirect_from:
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 one paper is accepted in AAAI2026. MUTrack [[Paper]]() [[Code]]()
 - *2025.08*: &nbsp;🎉🎉 one paper is accepted in TCSVT. FMTrack [[Paper]](https://ieeexplore.ieee.org/document/11134499) [[Code]](https://github.com/xyl-507/FMTrack)
-- *2025.06*: &nbsp;🎉🎉 one paper is accepted in TITS. TDAT [[Paper]](https://ieeexplore.ieee.org/document/11054299) [[Code]](https://github.com/xyl-507/TDAT)
+- *2025.06*: &nbsp;🎉🎉 one paper is accepted in TITS. TDAT [[Paper]](https://ieeexplore.ieee.org/document/11054299) [[Code]](https://github.com/xyl-507/TDAT) ——***🏆 ESI Highly cited Paper***
 - *2025.03*: &nbsp;🎉🎉 one paper is accepted in TCSVT. AVLTrack [[Paper]](https://ieeexplore.ieee.org/document/10922151) [[Code]](https://github.com/xyl-507/AVLTrack) ——***🏆 ESI Highly cited Paper*** ***🔥 ESI Hot Paper***
 - *2025.02*: &nbsp;🎉🎉 one paper is accepted in CVPR2025. SGLATrack [[Paper]](https://ieeexplore.ieee.org/abstract/document/11094982) [[Code]](https://github.com/GXNU-ZhongLab/SGLATrack)
 - *2024.11*: &nbsp;🎉🎉 one paper is accepted in TCSVT. CRM [[Paper]](https://ieeexplore.ieee.org/document/10551855) [[Code]](https://github.com/xyl-507/CRM) ——***🏆 ESI Highly cited Paper*** ***🔥 ESI Hot Paper***
@@ -58,6 +58,13 @@ redirect_from:
 ---
 
 # 📝 Publications 
+## 2026
+- Toward Low-Cost yet Effective Temporal Learning for UAV Tracking. IEEE International Conference on Computer Vision and Pattern Recognition, CVPR 2026
+- Boosting Self-Supervised Tracking with Contextual Prompts and Noise Learning. IEEE International Conference on Computer Vision and Pattern Recognition, CVPR 2026
+- Dual-branch Distilled Transformer for Efficient Asymmetric UAV Tracking. IEEE International Conference on Computer Vision and Pattern Recognition, CVPR 2026
+- Ship-SAR: an improved ship image generation framework of synthetic aperture radar via denoising diffusion probabilistic model, _Journal of King Saud University Computer and Information Sciences, Jin, G., Yang, K., **Yuanliang Xue**. [[Paper]](https://link.springer.com/article/10.1007/s44443-026-00713-7)
+- MUTrack: A Memory-Aware Unified Representation Framework for Visual Tracking, _AAAI2026, Wu, W., Liang, Q., Zhong, B., Tang, X., Tan, Y., Li, N., **Yuanliang Xue**. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38052)
+
 ## 2025
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/FMTrack.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
