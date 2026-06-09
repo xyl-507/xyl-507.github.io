@@ -36,7 +36,7 @@ redirect_from:
 - *2026.02*: &nbsp;🎉🎉 one paper is accepted in CVPR2026. LETrack [[Paper]]() [[Code]]()
 - *2026.02*: &nbsp;🎉🎉 one paper is accepted in CVPR2026. EATrack [[Paper]]() [[Code]]()
 - *2025.11*: &nbsp;🎉🎉 one paper is accepted in AAAI2026. MUTrack [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38052) [[Code]]()
-- *2025.08*: &nbsp;🎉🎉 one paper is accepted in TCSVT. FMTrack [[Paper]](https://ieeexplore.ieee.org/document/11134499) [[Code]](https://github.com/xyl-507/FMTrack)
+- *2025.08*: &nbsp;🎉🎉 one paper is accepted in TCSVT. FMTrack [[Paper]](https://ieeexplore.ieee.org/document/11134499) [[Code]](https://github.com/xyl-507/FMTrack) ——***🔥 ESI Hot Paper***
 - *2025.06*: &nbsp;🎉🎉 one paper is accepted in TITS. TDAT [[Paper]](https://ieeexplore.ieee.org/document/11054299) [[Code]](https://github.com/xyl-507/TDAT) ——***🏆 ESI Highly cited Paper***
 - *2025.03*: &nbsp;🎉🎉 one paper is accepted in TCSVT. AVLTrack [[Paper]](https://ieeexplore.ieee.org/document/10922151) [[Code]](https://github.com/xyl-507/AVLTrack) ——***🏆 ESI Highly cited Paper*** ***🔥 ESI Hot Paper***
 - *2025.02*: &nbsp;🎉🎉 one paper is accepted in CVPR2025. SGLATrack [[Paper]](https://ieeexplore.ieee.org/abstract/document/11094982) [[Code]](https://github.com/GXNU-ZhongLab/SGLATrack)
